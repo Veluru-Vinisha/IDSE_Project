@@ -1,0 +1,9 @@
+# Packages imported by The_Silent_Breakdown.ipynb
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+ucimlrepo
