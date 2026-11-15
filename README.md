@@ -74,10 +74,3 @@ Welcome to the **Introduction to Data Science (IDSE)** repository. This portfoli
   ```
 
 ---
-
-## 👥 Course & Attribution
-
-* **Course:** Introduction to Data Science (IDSE)
-* **Authors & Contributors:**
-  * **Akhil Kumar** ([@Akhil-Kumar-08](https://github.com/Akhil-Kumar-08))
-  * **Veluru Vinisha** ([@Veluru-Vinisha](https://github.com/Veluru-Vinisha))
